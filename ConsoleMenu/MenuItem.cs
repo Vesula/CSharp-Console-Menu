@@ -19,3 +19,4 @@ namespace ConsoleMenu
             this.isSelected = false;
         }
     }
+}
