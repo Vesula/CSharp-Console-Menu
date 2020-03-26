@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleMenu
 {
-    class MenuItem
+    internal class MenuItem
     {
         public ConsoleColor foregroundColor { get; set; }
         public ConsoleColor backgroundColor { get; set; }
