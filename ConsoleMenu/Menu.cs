@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleMenu
 {
-    class Menu
+    public class Menu
     {
         public string[] menuTextItems { get; set; }
         public string menuTitle { get; set; }
