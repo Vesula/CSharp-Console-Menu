@@ -14,16 +14,16 @@ static void Main(string[] args)
 
     switch (menu.displayMenu())
     {
-        case 1:
+        case 0:
             Console.WriteLine("Option 1");
             break;
-        case 2:
+        case 1:
             Console.WriteLine("Option 2");
             break;
-        case 3:
+        case 2:
             Console.WriteLine("Option 3");
             break;
-        case 4:
+        case 3:
             Console.WriteLine("Option 4");
             break;
         default:
